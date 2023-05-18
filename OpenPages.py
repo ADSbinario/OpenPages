@@ -16,3 +16,5 @@ for line in content:
     webbrowser.open(line)
     time.sleep(1)
     print(line)
+    
+#Por binarioads@gmail.com
